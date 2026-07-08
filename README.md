@@ -39,7 +39,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras jupyte
 3. Launch Jupyter:
 
 ```bash
-jupyter notebook
+jupyter noteboo
 ```
 
 4. Open `air_quality_prediction.ipynb` and run all cells in order.
